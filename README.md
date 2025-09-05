@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am a Quantitative Ecologist, always learning something new. I work in the space of biodiversity genomics, climate data analytics and statistical modelling. 
+In my free time, I enjoy biking and going for walks. 
+Always happy to help, so get in touch if needed. 
+
+JCL
 
 <!--
 **jc183-jcl/jc183-jcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
